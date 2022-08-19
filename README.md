@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="github.com/K0dax">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=K0dax&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=k0dax&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0dax&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
