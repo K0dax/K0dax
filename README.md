@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/yan-koda"><i>Koda</i></a>!</h1>
-  <h3 align="center">Eu sou um desenvolvedor Front-End.
+  <h3 align="center">Eu sou um desenvolvedor Fullstack.
  <br>
     <br>
   <p align="center">Este é meu histórico e logo abaixo todas as tecnologias que ultilizo no meu dia a dia! 😉️</h2>
