@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🖐 Olá me chamo Yan.<br>🔭 Eu sou um desenvolvedor Back-end junior.
+🖐 Olá me chamo Yan.<br>🔭 Eu sou um desenvolvedor Fullstack.
 
 
 ## 🌐 Redes Sociais:
